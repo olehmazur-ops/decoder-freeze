@@ -1,0 +1,1014 @@
+yarn run v1.22.22
+warning package.json: No license field
+$ npm cache clean --force && node node_modules/react-native/local-cli/cli.js start
+npm warn using --force Recommended protections disabled.
+
+                        ▒▒▓▓▓▓▒▒
+                     ▒▓▓▓▒▒░░▒▒▓▓▓▒
+                  ▒▓▓▓▓░░░▒▒▒▒░░░▓▓▓▓▒
+                 ▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓
+                 ▓▓░░░░░▒▓▓▓▓▓▓▒░░░░░▓▓
+                 ▓▓░░▓▓▒░░░▒▒░░░▒▓▒░░▓▓
+                 ▓▓░░▓▓▓▓▓▒▒▒▒▓▓▓▓▒░░▓▓
+                 ▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░▓▓
+                 ▓▓▒░░▒▒▓▓▓▓▓▓▓▓▒░░░▒▓▓
+                  ▒▓▓▓▒░░░▒▓▓▒░░░▒▓▓▓▒
+                     ▒▓▓▓▒░░░░▒▓▓▓▒
+                        ▒▒▓▓▓▓▒▒
+
+
+                Welcome to Metro v0.76.5
+              Fast - Scalable - Integrated
+
+r - reload the app
+d - open developer menu
+i - run on iOS
+a - run on Android
+
+warning: Watchman `watch-project` returned a warning: Recrawled this watch 1 time, most recently because:
+MustScanSubDirs UserDroppedTo resolve, please review the information on
+https://facebook.github.io/watchman/docs/troubleshooting.html#recrawl
+To clear this warning, run:
+`watchman watch-del '/Users/oleh.mazur/Desktop/projects/keplertv' ; watchman watch-project '/Users/oleh.mazur/Desktop/projects/keplertv'`
+
+warning: Watchman `query` returned a warning: Recrawled this watch 1 time, most recently because:
+MustScanSubDirs UserDroppedTo resolve, please review the information on
+https://facebook.github.io/watchman/docs/troubleshooting.html#recrawl
+To clear this warning, run:
+`watchman watch-del '/Users/oleh.mazur/Desktop/projects/keplertv' ; watchman watch-project '/Users/oleh.mazur/Desktop/projects/keplertv'`
+
+Recrawled this watch 1 time, most recently because:
+MustScanSubDirs UserDroppedTo resolve, please review the information on
+https://facebook.github.io/watchman/docs/troubleshooting.html#recrawl
+To clear this warning, run:
+`watchman watch-del '/Users/oleh.mazur/Desktop/projects/keplertv' ; watchman watch-project '/Users/oleh.mazur/Desktop/projects/keplertv'`
+
+Recrawled this watch 1 time, most recently because:
+MustScanSubDirs UserDroppedTo resolve, please review the information on
+https://facebook.github.io/watchman/docs/troubleshooting.html#recrawl
+To clear this warning, run:
+`watchman watch-del '/Users/oleh.mazur/Desktop/projects/keplertv' ; watchman watch-project '/Users/oleh.mazur/Desktop/projects/keplertv'`
+
+ BUNDLE  ./index.js 
+
+ BUNDLE  ./index.js 
+
+ (NOBRIDGE) LOG  [PERF] {"phase":"boot","event":"index-start","t":3625184.217061}
+ (NOBRIDGE) LOG  [PERF] {"phase":"boot","event":"firebase-init","phase_evt":"begin","t":3625191.880291}
+ (NOBRIDGE) LOG  [PERF] {"phase":"boot","event":"firebase-init","phase_evt":"end","t":3625276.031214,"dur":84.15092300018296}
+ (NOBRIDGE) LOG  [PERF] {"phase":"boot","event":"app-register","t":3625277.343445}
+ (NOBRIDGE) LOG  Running "com.starz.starzplay.firetv.main" with {"fabric":true,"initialProps":{"concurrentRoot":true},"rootTag":1}
+ (NOBRIDGE) LOG  Registering native component: RNSVGRect
+ (NOBRIDGE) LOG  Registering native component: RNSVGCircle
+ (NOBRIDGE) LOG  Registering native component: RNSVGEllipse
+ (NOBRIDGE) LOG  Registering native component: RNSVGPath
+ (NOBRIDGE) LOG  Registering native component: RNSVGLine
+ (NOBRIDGE) LOG  Registering native component: RNSVGGroup
+ (NOBRIDGE) LOG  Registering native component: RNSVGSvgViewAndroid
+ (NOBRIDGE) LOG  Registering native component: RNSVGSvgView
+ (NOBRIDGE) LOG  Registering native component: RNSVGTSpan
+ (NOBRIDGE) LOG  Registering native component: RNSVGText
+ (NOBRIDGE) LOG  Registering native component: RNSVGTextPath
+ (NOBRIDGE) LOG  Registering native component: RNSVGUse
+ (NOBRIDGE) LOG  Registering native component: RNSVGImage
+ (NOBRIDGE) LOG  Registering native component: RNSVGSymbol
+ (NOBRIDGE) LOG  Registering native component: RNSVGDefs
+ (NOBRIDGE) LOG  Registering native component: RNSVGLinearGradient
+ (NOBRIDGE) LOG  Registering native component: RNSVGRadialGradient
+ (NOBRIDGE) LOG  Registering native component: RNSVGClipPath
+ (NOBRIDGE) LOG  Registering native component: RNSVGPattern
+ (NOBRIDGE) LOG  Registering native component: RNSVGMask
+ (NOBRIDGE) LOG  Registering native component: RNSVGMarker
+ (NOBRIDGE) LOG  Registering native component: RNSVGForeignObject
+ (NOBRIDGE) INFO  🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙
+ (NOBRIDGE) ERROR  [ReactNative Architecture][JS] 'getViewManagerConfig' is not available in the new React Native architecture.Use hasViewManagerConfig instead. viewManagerName: getConstants
+ (NOBRIDGE) ERROR  [ReactNative Architecture][JS] 'getConstants' is not available in the new React Native architecture.
+ (NOBRIDGE) DEBUG  override RCTImageView to set native flag to false
+ (NOBRIDGE) DEBUG  override RCTView to set native flag to false
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Created a new Instance for Purchasing Manager
+ (NOBRIDGE) INFO  [AmazonIAPSDK] Received the request for getUserData
+ (NOBRIDGE) INFO  [AmazonIAPSDK] requestId : a7f41985-978c-4c66-85f4-126d195f1f93
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Get UserData Request Handler Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] API Base Request Handler Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Get User Data model V2 Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Get User Data Base model Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] API Base Model Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Adding request payload for version : V2
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Creating the request payload for Model Version V2
+ (NOBRIDGE) INFO  [AmazonIAPSDK] getUserData start time : 1780399317110
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Executing the GetUserData operation
+ (NOBRIDGE) INFO  [AmazonIAPSDK] Received the request for getProductData API
+ (NOBRIDGE) INFO  [AmazonIAPSDK] requestId : 04ae8c04-9751-499a-ba5d-e930fc8c33ab
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Get ProductData Request Handler Constructor
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] API Base Request Handler Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] GetProductData Model V2 constructor invoked.
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] GetProductData Base model constructor invoked.
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] API Base Model Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Adding request payload for version : V2
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Creating the request payload for Model Version V2
+ (NOBRIDGE) INFO  [AmazonIAPSDK] getProductData start time : 1780399317156
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Executing the GetProductData operation
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Input SKUs present in request payload: starz.amz.subscription.offer.a.monthly.usa,starz.amz.subscription.offer.a.12month.usa
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Executing the GetProductData operation
+ (NOBRIDGE) INFO  [AmazonIAPSDK] Received the request for getPurchaseUpdates API
+ (NOBRIDGE) INFO  [AmazonIAPSDK] requestId : ed771c85-7d13-4cbd-93c3-2a96984a3d5a
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] GetPurchaseUpdates Request Handler Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] API Base Request Handler Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] GetPurchaseUpdates Model V2 Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] GetPurchaseUpdates Base Model Constructor invoked
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] API Base Model Constructor invoked
+ (NOBRIDGE) INFO  [AmazonIAPSDK] getPurchaseUpdates start time : 1780399317210
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Executing the GetPurchaseUpdates operation
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Adding request payload for version : V2
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Creating the request payload for Model Version V2
+ (NOBRIDGE) WARN  Legacy AsyncStorage is on a deprecation path. Please migrate to using @amazon-devices/react-native-async-storage__async-storage
+ (NOBRIDGE) WARN  Legacy AsyncStorage is on a deprecation path. Please migrate to using @amazon-devices/react-native-async-storage__async-storage
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Reset value present in request payload: false
+ (NOBRIDGE) WARN  Legacy AsyncStorage is on a deprecation path. Please migrate to using @amazon-devices/react-native-async-storage__async-storage
+ (NOBRIDGE) WARN  Legacy AsyncStorage is on a deprecation path. Please migrate to using @amazon-devices/react-native-async-storage__async-storage
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Received the response
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Response version : V2
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Parsing the response object received for getUserData operation......
+ (NOBRIDGE) ERROR  [AmazonIAPSDK] Response status for GetUserData : FAILED
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Creating a null response for GetUserData with response status : FAILED
+ (NOBRIDGE) INFO  [AmazonIAPSDK] getUserData end time : 1780399318121
+ (NOBRIDGE) INFO  [AmazonIAPSDK] getUserData total time : 1011 ms
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Received the response
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Response version : V2
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Parsing the response object received for getProductData operation ......
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] response status : FAILED
+ (NOBRIDGE) INFO  [AmazonIAPSDK] Response status for GetProductData : FAILED
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Creating a null response for GetProductData with response status :FAILED
+ (NOBRIDGE) INFO  [AmazonIAPSDK] getProductData end time : 1780399318128
+ (NOBRIDGE) INFO  [AmazonIAPSDK] getProductData total time : 972 ms
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Received the response
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Response version : V2
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Parsing the response object received for getPurchaseUpdates operation......
+ (NOBRIDGE) ERROR  [AmazonIAPSDK] Response status for GetPurchaseUpdates : FAILED
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Creating a null response for GetPurchaseUpdates with response status : FAILED
+ (NOBRIDGE) ERROR  getUserData failed: 3
+ (NOBRIDGE) ERROR  getProductData failed: 3
+ (NOBRIDGE) INFO  [AmazonIAPSDK] getPurchaseUpdates end time : 1780399318192
+ (NOBRIDGE) INFO  [AmazonIAPSDK] getPurchaseUpdates total time : 982 ms
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Async sending the acknowldgement for getPurchaseUpdates operation
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Extracting the receipt ids present in the getPurchaseUpdates response...
+ (NOBRIDGE) ERROR  getPurchaseUpdates failed: 3
+ (NOBRIDGE) DEBUG  [AmazonIAPSDK] Acknowledgment sent failed with error : TypeError: Cannot convert null value to object
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 47ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 618ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 35ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 166ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) DEBUG  override RCTScrollView to set native flag to false
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 44ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 47ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 135ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 65ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 50ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 51ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 51ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 50ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 51ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 94ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 54ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 52ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 47ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 46ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 45ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {}} !== {"next selectionBorderStyle": {}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": undefined, "containerStyle": {"height": 1080, "width": 1790}, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hasPreferredFocus": true, "hideItemsBeforeSelection": false, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 0, "orientation": "vertical", "pinnedSelectedItemOffset": "start", "renderItem": [Function DynamicBlock], "renderedItemsCount": 10, "selectionBorder": undefined, "selectionStrategy": "natural", "uniqueId": "1791037765-1221566108-1503491692-468445019-1989017247-1624040861-1776348682-1264215599-1768585150-87794502-388156267-1627154070-1003916047-713085194-156574554-1647870654-1210342343-1891387908-1875460019-1882232507-1631248936-1429509345-185299615-1645250581-164477400-765103774"}  !==  {"animationDuration": undefined, "containerStyle": {"height": 1080, "width": 1790}, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hasPreferredFocus": true, "hideItemsBeforeSelection": false, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 0, "orientation": "vertical", "pinnedSelectedItemOffset": "start", "renderItem": [Function DynamicBlock], "renderedItemsCount": 10, "selectionBorder": undefined, "selectionStrategy": "natural", "uniqueId": "1791037765-1221566108-1503491692-468445019-1989017247-1624040861-1776348682-1264215599-1768585150-87794502-388156267-1627154070-1003916047-713085194-156574554-1647870654-1210342343-1891387908-1875460019-1882232507-1631248936-1429509345-185299615-1645250581-164477400-765103774"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {}} !== {"next selectionBorderStyle": {}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": undefined, "uniqueId": "0-1-2-3-4-5-6-7-8-9"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": undefined, "uniqueId": "0-1-2-3-4-5-6-7-8-9"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 61ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 46ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 57ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 48ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 54ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 50ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 52ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) ERROR  Moment Timezone found +02:00 from the Intl api, but did not have that data loaded.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 51ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 50ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 54ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {}} !== {"next selectionBorderStyle": {}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": undefined, "uniqueId": "0-1-2-3-4-5-6-7-8-9"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": undefined, "uniqueId": "0-1-2-3-4-5-6-7-8-9"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 48ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 57ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) DEBUG  [32mcom.amazon.kepler.tv.pnc (JS) [DEBUG] Failed to retrieve the data item for the index 6 (retries: 1)... Will retry...[39m
+ (NOBRIDGE) DEBUG  [32mcom.amazon.kepler.tv.pnc (JS) [DEBUG] Failed to retrieve the data item for the index 6 (retries: 2)[39m
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 6, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "617440145-617441229-617441970-617441204-617440149-617326716-617440083-617442907"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "0-1-2-3-4-5-6-7-8-9"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "uniqueId": "0-1-2-3-4-5-6-7-8-9"} :next props
+ (NOBRIDGE) GROUP    CarouselNativeInner
+ (NOBRIDGE) LOG    {"CarouselNativeInner": [Function CarouselNativeInner]} Re-rendered because of props changes:
+ (NOBRIDGE) GROUP      props.selectionBorderStyle
+ (NOBRIDGE) LOG      different objects that are equal by value. (more info at http://bit.ly/wdyr02)
+ (NOBRIDGE) LOG      {"prev selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}} !== {"next selectionBorderStyle": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}}
+ (NOBRIDGE) LOG      {"For detailed diff, right click the following fn, save as global, and run: ": [Function diffFn]}
+ (NOBRIDGE) GROUP      Rendered by Scrollable
+ (NOBRIDGE) LOG      {"Scrollable": {"$$typeof": Symbol(react.forward_ref), "render": [Function Scrollable]}} Re-rendered because the props object itself changed but its values are all equal. This could have been avoided by making the component pure, or by preventing its father from re-rendering. More info at http://bit.ly/wdyr02
+ (NOBRIDGE) LOG      prev props: {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"}  !==  {"animationDuration": 0.1, "dataAdapter": {"getItem": [Function anonymous], "getItemCount": [Function anonymous], "getItemKey": [Function anonymous], "notifyDataError": [Function anonymous]}, "hideItemsBeforeSelection": true, "itemStyle": {"itemPadding": 20, "pressedItemScaleFactor": 1, "selectedItemScaleFactor": 1}, "navigableScrollAreaMargin": 5, "pinnedSelectedItemOffset": "start", "renderItem": [Function anonymous], "renderedItemsCount": 10, "selectionBorder": {"borderColor": "#D2FF00", "borderRadius": 10, "borderStrokeColor": "#D2FF00", "borderStrokeRadius": 10, "borderStrokeWidth": 0, "borderWidth": 2.5}, "selectionStrategy": "anchored", "uniqueId": "1526473701-1526497820-1525604096-1526384422-1526468896-1526468223-1526496798-1526497727-1526469924-1525637731-1526475902-1524568323-1526468897"} :next props
+ (NOBRIDGE) DEBUG  [32mcom.amazon.kepler.tv.pnc (JS) [DEBUG] Failed to retrieve the data item for the index 8 (retries: 1)... Will retry...[39m
+ (NOBRIDGE) DEBUG  [32mcom.amazon.kepler.tv.pnc (JS) [DEBUG] Failed to retrieve the data item for the index 8 (retries: 2)[39m
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 34ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) DEBUG  override KeplerTextInput to set native flag to false
+ BUNDLE  ./service.js 
+
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 62ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 63ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  Error installing polyfill! [ReferenceError: Property 'screen' doesn't exist]
+ (NOBRIDGE) WARN  Error installing polyfill! [ReferenceError: Property 'MediaKeySystemAccess' doesn't exist]
+ (NOBRIDGE) WARN  Player w/ mediaElement has been deprecated and will be removed in v5.0 . We are currently at version v0.8 . Additional information: Please migrate from initializing Player with a mediaElement; use the attach method instead.
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=1.0s sinceRot=- ct=0.00 paused=false rate=1 ready=0 net=0 bufAhead=- frames(total/dropped/corrupt)=0/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212584.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=2.1s sinceRot=- ct=0.00 paused=false rate=1 ready=0 net=0 bufAhead=- frames(total/dropped/corrupt)=0/0/NaN stall=1
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212584.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212584.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212584.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212585.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=3.1s sinceRot=- ct=0.00 paused=false rate=1 ready=0 net=0 bufAhead=- frames(total/dropped/corrupt)=0/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212585.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212585.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=5.5s sinceRot=- ct=25319635.28 paused=false rate=1 ready=1 net=0 bufAhead=-36.4s frames(total/dropped/corrupt)=0/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212591.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212591.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212591.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=6.7s sinceRot=- ct=25319635.28 paused=false rate=1 ready=1 net=0 bufAhead=- frames(total/dropped/corrupt)=0/0/NaN stall=1
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212591.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212592.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212592.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212592.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=7.7s sinceRot=- ct=25319635.28 paused=false rate=1 ready=1 net=0 bufAhead=- frames(total/dropped/corrupt)=0/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=9.8s sinceRot=- ct=25319636.09 paused=false rate=1 ready=3 net=0 bufAhead=4.9s frames(total/dropped/corrupt)=160/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212592.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212593.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212593.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=10.8s sinceRot=- ct=25319637.11 paused=false rate=1 ready=3 net=0 bufAhead=3.9s frames(total/dropped/corrupt)=180/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212593.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=11.9s sinceRot=- ct=25319638.19 paused=false rate=1 ready=3 net=0 bufAhead=2.8s frames(total/dropped/corrupt)=180/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212593.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=12.9s sinceRot=- ct=25319639.22 paused=false rate=1 ready=3 net=0 bufAhead=7.8s frames(total/dropped/corrupt)=266/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212594.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212594.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212594.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212595.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=14.2s sinceRot=- ct=25319640.53 paused=false rate=1 ready=3 net=0 bufAhead=12.4s frames(total/dropped/corrupt)=266/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212594.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212595.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212595.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=15.2s sinceRot=- ct=25319641.53 paused=false rate=1 ready=3 net=0 bufAhead=11.4s frames(total/dropped/corrupt)=335/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212596.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212595.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212596.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212596.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=16.5s sinceRot=- ct=25319642.82 paused=false rate=1 ready=3 net=0 bufAhead=16.1s frames(total/dropped/corrupt)=335/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212596.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=17.5s sinceRot=- ct=25319643.82 paused=false rate=1 ready=3 net=0 bufAhead=21.1s frames(total/dropped/corrupt)=404/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=18.6s sinceRot=- ct=25319644.86 paused=false rate=1 ready=3 net=0 bufAhead=26.1s frames(total/dropped/corrupt)=404/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=19.6s sinceRot=- ct=25319645.86 paused=false rate=1 ready=3 net=0 bufAhead=25.1s frames(total/dropped/corrupt)=469/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=20.6s sinceRot=- ct=25319646.92 paused=false rate=1 ready=3 net=0 bufAhead=24.0s frames(total/dropped/corrupt)=469/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=21.6s sinceRot=- ct=25319647.92 paused=false rate=1 ready=3 net=0 bufAhead=23.0s frames(total/dropped/corrupt)=537/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=22.9s sinceRot=- ct=25319649.20 paused=false rate=1 ready=3 net=0 bufAhead=21.7s frames(total/dropped/corrupt)=537/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=23.9s sinceRot=- ct=25319650.20 paused=false rate=1 ready=3 net=0 bufAhead=20.7s frames(total/dropped/corrupt)=606/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=25.2s sinceRot=- ct=25319651.48 paused=false rate=1 ready=3 net=0 bufAhead=19.5s frames(total/dropped/corrupt)=606/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=26.2s sinceRot=- ct=25319652.48 paused=false rate=1 ready=3 net=0 bufAhead=18.5s frames(total/dropped/corrupt)=671/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=27.2s sinceRot=- ct=25319653.50 paused=false rate=1 ready=3 net=0 bufAhead=17.4s frames(total/dropped/corrupt)=671/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212597.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=28.2s sinceRot=- ct=25319654.50 paused=false rate=1 ready=3 net=0 bufAhead=16.4s frames(total/dropped/corrupt)=742/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212597.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212597.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212597.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212598.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=29.5s sinceRot=- ct=25319655.77 paused=false rate=1 ready=3 net=0 bufAhead=15.2s frames(total/dropped/corrupt)=742/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212598.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212598.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=30.5s sinceRot=- ct=25319656.77 paused=false rate=1 ready=3 net=0 bufAhead=20.2s frames(total/dropped/corrupt)=806/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212598.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212599.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=31.5s sinceRot=- ct=25319657.79 paused=false rate=1 ready=3 net=0 bufAhead=19.2s frames(total/dropped/corrupt)=806/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212599.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212599.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212599.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=32.5s sinceRot=- ct=25319658.83 paused=false rate=1 ready=3 net=0 bufAhead=24.1s frames(total/dropped/corrupt)=875/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=33.8s sinceRot=- ct=25319660.12 paused=false rate=1 ready=3 net=0 bufAhead=28.8s frames(total/dropped/corrupt)=875/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=34.8s sinceRot=- ct=25319661.12 paused=false rate=1 ready=3 net=0 bufAhead=27.8s frames(total/dropped/corrupt)=945/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=36.2s sinceRot=- ct=25319662.45 paused=false rate=1 ready=3 net=0 bufAhead=26.5s frames(total/dropped/corrupt)=945/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=37.2s sinceRot=- ct=25319663.45 paused=false rate=1 ready=3 net=0 bufAhead=25.5s frames(total/dropped/corrupt)=1011/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=38.2s sinceRot=- ct=25319664.45 paused=false rate=1 ready=3 net=0 bufAhead=24.5s frames(total/dropped/corrupt)=1011/0/NaN stall=0
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 45ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  [FreezeDiag] t=39.4s sinceRot=- ct=25319665.71 paused=false rate=1 ready=3 net=0 bufAhead=23.3s frames(total/dropped/corrupt)=1082/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=40.5s sinceRot=- ct=25319666.74 paused=false rate=1 ready=3 net=0 bufAhead=22.2s frames(total/dropped/corrupt)=1082/0/NaN stall=0
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 60ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  [FreezeDiag] t=41.6s sinceRot=- ct=25319667.89 paused=false rate=1 ready=3 net=0 bufAhead=21.1s frames(total/dropped/corrupt)=1147/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=42.7s sinceRot=- ct=25319669.03 paused=false rate=1 ready=3 net=0 bufAhead=19.9s frames(total/dropped/corrupt)=1147/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=43.7s sinceRot=- ct=25319670.03 paused=false rate=1 ready=3 net=0 bufAhead=18.9s frames(total/dropped/corrupt)=1216/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212600.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212600.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212600.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212600.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212601.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=44.7s sinceRot=- ct=25319671.03 paused=false rate=1 ready=3 net=0 bufAhead=17.9s frames(total/dropped/corrupt)=1216/0/NaN stall=0
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 43ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  [FreezeDiag] t=46.0s sinceRot=- ct=25319672.26 paused=false rate=1 ready=3 net=0 bufAhead=16.8s frames(total/dropped/corrupt)=1282/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212601.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212601.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212601.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=47.0s sinceRot=- ct=25319673.26 paused=false rate=1 ready=3 net=0 bufAhead=21.7s frames(total/dropped/corrupt)=1282/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=48.0s sinceRot=- ct=25319674.27 paused=false rate=1 ready=3 net=0 bufAhead=26.7s frames(total/dropped/corrupt)=1282/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=49.0s sinceRot=- ct=25319675.27 paused=false rate=1 ready=3 net=0 bufAhead=25.7s frames(total/dropped/corrupt)=1354/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=50.0s sinceRot=- ct=25319676.27 paused=false rate=1 ready=3 net=0 bufAhead=24.7s frames(total/dropped/corrupt)=1354/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=51.0s sinceRot=- ct=25319677.27 paused=false rate=1 ready=3 net=0 bufAhead=23.7s frames(total/dropped/corrupt)=1414/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=52.0s sinceRot=- ct=25319678.27 paused=false rate=1 ready=3 net=0 bufAhead=22.7s frames(total/dropped/corrupt)=1414/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=53.0s sinceRot=- ct=25319679.27 paused=false rate=1 ready=3 net=0 bufAhead=21.7s frames(total/dropped/corrupt)=1488/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=54.0s sinceRot=- ct=25319680.27 paused=false rate=1 ready=3 net=0 bufAhead=20.7s frames(total/dropped/corrupt)=1488/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=55.0s sinceRot=- ct=25319681.27 paused=false rate=1 ready=3 net=0 bufAhead=19.7s frames(total/dropped/corrupt)=1550/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=56.0s sinceRot=- ct=25319682.27 paused=false rate=1 ready=3 net=0 bufAhead=18.7s frames(total/dropped/corrupt)=1550/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=57.0s sinceRot=- ct=25319683.27 paused=false rate=1 ready=3 net=0 bufAhead=17.7s frames(total/dropped/corrupt)=1550/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=58.0s sinceRot=- ct=25319684.27 paused=false rate=1 ready=3 net=0 bufAhead=16.7s frames(total/dropped/corrupt)=1622/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212602.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212602.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212602.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=59.0s sinceRot=- ct=25319685.27 paused=false rate=1 ready=3 net=0 bufAhead=15.7s frames(total/dropped/corrupt)=1622/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212602.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212603.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=60.0s sinceRot=- ct=25319686.27 paused=false rate=1 ready=3 net=0 bufAhead=14.7s frames(total/dropped/corrupt)=1686/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212603.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212603.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212603.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212604.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=61.0s sinceRot=- ct=25319687.27 paused=false rate=1 ready=3 net=0 bufAhead=19.7s frames(total/dropped/corrupt)=1686/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212604.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212604.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=62.0s sinceRot=- ct=25319688.27 paused=false rate=1 ready=3 net=0 bufAhead=24.7s frames(total/dropped/corrupt)=1754/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212604.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=63.0s sinceRot=- ct=25319689.27 paused=false rate=1 ready=3 net=0 bufAhead=23.7s frames(total/dropped/corrupt)=1754/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=64.0s sinceRot=- ct=25319690.27 paused=false rate=1 ready=3 net=0 bufAhead=28.7s frames(total/dropped/corrupt)=1754/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=65.0s sinceRot=- ct=25319691.27 paused=false rate=1 ready=3 net=0 bufAhead=27.7s frames(total/dropped/corrupt)=1822/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=66.0s sinceRot=- ct=25319692.28 paused=false rate=1 ready=3 net=0 bufAhead=26.7s frames(total/dropped/corrupt)=1822/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=67.0s sinceRot=- ct=25319693.28 paused=false rate=1 ready=3 net=0 bufAhead=25.7s frames(total/dropped/corrupt)=1894/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=68.0s sinceRot=- ct=25319694.28 paused=false rate=1 ready=3 net=0 bufAhead=24.7s frames(total/dropped/corrupt)=1894/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=69.0s sinceRot=- ct=25319695.29 paused=false rate=1 ready=3 net=0 bufAhead=23.7s frames(total/dropped/corrupt)=1965/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=70.2s sinceRot=- ct=25319696.53 paused=false rate=1 ready=3 net=0 bufAhead=22.5s frames(total/dropped/corrupt)=1965/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=71.3s sinceRot=- ct=25319697.59 paused=false rate=1 ready=3 net=0 bufAhead=21.4s frames(total/dropped/corrupt)=2062/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=72.5s sinceRot=- ct=25319698.78 paused=false rate=1 ready=3 net=0 bufAhead=20.2s frames(total/dropped/corrupt)=2062/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212605.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=73.5s sinceRot=- ct=25319699.82 paused=false rate=1 ready=3 net=0 bufAhead=19.2s frames(total/dropped/corrupt)=2151/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212605.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212605.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212605.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=74.6s sinceRot=- ct=25319700.84 paused=false rate=1 ready=3 net=0 bufAhead=18.1s frames(total/dropped/corrupt)=2151/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212606.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212606.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212606.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=75.6s sinceRot=- ct=25319701.84 paused=false rate=1 ready=3 net=0 bufAhead=23.2s frames(total/dropped/corrupt)=2206/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212606.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=76.6s sinceRot=- ct=25319702.84 paused=false rate=1 ready=3 net=0 bufAhead=22.2s frames(total/dropped/corrupt)=2206/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=77.6s sinceRot=- ct=25319703.84 paused=false rate=1 ready=3 net=0 bufAhead=27.2s frames(total/dropped/corrupt)=2290/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=78.6s sinceRot=- ct=25319704.08 paused=false rate=1 ready=3 net=0 bufAhead=26.9s frames(total/dropped/corrupt)=2290/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=79.7s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=2472/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=80.8s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=2472/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=81.9s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=2545/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=83.1s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=2545/0/NaN stall=3 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=84.1s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=2545/0/NaN stall=4 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=85.1s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=2545/0/NaN stall=5 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=86.1s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=2545/0/NaN stall=6 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=87.1s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=2545/0/NaN stall=7 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=88.2s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=2545/0/NaN stall=8 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212607.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212607.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212607.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212607.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=89.2s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=2545/0/NaN stall=9 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=90.2s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=10 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=91.2s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=11 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=92.2s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=12 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=93.2s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=13 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=94.2s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=14 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=95.2s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=15 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=96.2s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=16 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=97.4s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=17 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=98.4s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=18 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=99.5s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=19 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=100.4s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=20 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=101.5s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=21 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=102.5s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=22 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=103.5s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=23 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=104.5s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=24 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=105.7s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=25 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=106.7s sinceRot=- ct=25319704.18 paused=false rate=1 ready=3 net=0 bufAhead=32.8s frames(total/dropped/corrupt)=2545/0/NaN stall=26 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=107.7s sinceRot=- ct=25319709.40 paused=false rate=1 ready=1 net=0 bufAhead=27.6s frames(total/dropped/corrupt)=2545/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212608.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212608.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212608.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=108.7s sinceRot=- ct=25319709.40 paused=false rate=1 ready=3 net=0 bufAhead=27.6s frames(total/dropped/corrupt)=2717/0/NaN stall=1
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212608.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=109.8s sinceRot=- ct=25319709.50 paused=false rate=1 ready=3 net=0 bufAhead=27.5s frames(total/dropped/corrupt)=2882/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=110.8s sinceRot=- ct=25319709.50 paused=false rate=1 ready=3 net=0 bufAhead=33.5s frames(total/dropped/corrupt)=2882/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=112.7s sinceRot=- ct=25319709.50 paused=false rate=1 ready=3 net=0 bufAhead=33.5s frames(total/dropped/corrupt)=2924/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212609.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212609.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212609.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=113.8s sinceRot=- ct=25319714.86 paused=false rate=1 ready=3 net=0 bufAhead=28.2s frames(total/dropped/corrupt)=3129/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212609.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=114.9s sinceRot=- ct=25319714.96 paused=false rate=1 ready=1 net=0 bufAhead=28.1s frames(total/dropped/corrupt)=3129/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=116.2s sinceRot=- ct=25319714.96 paused=false rate=1 ready=3 net=0 bufAhead=34.1s frames(total/dropped/corrupt)=3336/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=117.2s sinceRot=- ct=25319714.96 paused=false rate=1 ready=3 net=0 bufAhead=34.1s frames(total/dropped/corrupt)=3336/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=118.2s sinceRot=- ct=25319714.96 paused=false rate=1 ready=3 net=0 bufAhead=34.1s frames(total/dropped/corrupt)=3411/0/NaN stall=3 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212610.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212610.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212610.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=119.2s sinceRot=- ct=25319720.33 paused=false rate=1 ready=3 net=0 bufAhead=28.7s frames(total/dropped/corrupt)=3600/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=120.4s sinceRot=- ct=25319720.43 paused=false rate=1 ready=3 net=0 bufAhead=28.7s frames(total/dropped/corrupt)=3792/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212610.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=121.5s sinceRot=- ct=25319720.43 paused=false rate=1 ready=3 net=0 bufAhead=34.6s frames(total/dropped/corrupt)=3792/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=122.5s sinceRot=- ct=25319720.43 paused=false rate=1 ready=3 net=0 bufAhead=34.6s frames(total/dropped/corrupt)=3862/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=123.6s sinceRot=- ct=25319720.43 paused=false rate=1 ready=3 net=0 bufAhead=34.6s frames(total/dropped/corrupt)=3862/0/NaN stall=3 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212611.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212611.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212611.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=124.6s sinceRot=- ct=25319725.59 paused=false rate=1 ready=3 net=0 bufAhead=29.4s frames(total/dropped/corrupt)=4033/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212611.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=125.7s sinceRot=- ct=25319725.69 paused=false rate=1 ready=1 net=0 bufAhead=29.3s frames(total/dropped/corrupt)=4033/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=126.7s sinceRot=- ct=25319725.69 paused=false rate=1 ready=3 net=0 bufAhead=35.3s frames(total/dropped/corrupt)=4202/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=127.8s sinceRot=- ct=25319725.69 paused=false rate=1 ready=3 net=0 bufAhead=35.3s frames(total/dropped/corrupt)=4202/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=128.9s sinceRot=- ct=25319725.69 paused=false rate=1 ready=3 net=0 bufAhead=35.3s frames(total/dropped/corrupt)=4254/0/NaN stall=3 <<< FROZEN
+ (NOBRIDGE) WARN  SerializableStateInvariantMiddleware took 35ms, which is more than the warning threshold of 32ms. 
+If your state or actions are very large, you may want to disable the middleware as it might cause too much of a slowdown in development mode. See https://redux-toolkit.js.org/api/getDefaultMiddleware for instructions.
+It is disabled in production builds, so you don't need to worry about that.
+ (NOBRIDGE) WARN  [FreezeDiag] t=130.2s sinceRot=- ct=25319730.85 paused=false rate=1 ready=3 net=0 bufAhead=30.2s frames(total/dropped/corrupt)=4459/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=131.2s sinceRot=- ct=25319730.85 paused=false rate=1 ready=3 net=0 bufAhead=30.2s frames(total/dropped/corrupt)=4459/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=132.7s sinceRot=- ct=25319730.95 paused=false rate=1 ready=3 net=0 bufAhead=30.1s frames(total/dropped/corrupt)=4728/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=134.1s sinceRot=- ct=25319730.95 paused=false rate=1 ready=3 net=0 bufAhead=30.1s frames(total/dropped/corrupt)=4728/0/NaN stall=1
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212612.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212612.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212612.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=135.3s sinceRot=- ct=25319736.04 paused=false rate=1 ready=3 net=0 bufAhead=25.0s frames(total/dropped/corrupt)=4907/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212612.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=137.0s sinceRot=- ct=25319736.14 paused=false rate=1 ready=3 net=0 bufAhead=25.0s frames(total/dropped/corrupt)=5089/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=138.0s sinceRot=- ct=25319736.14 paused=false rate=1 ready=3 net=0 bufAhead=30.9s frames(total/dropped/corrupt)=5089/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=139.4s sinceRot=- ct=25319736.14 paused=false rate=1 ready=3 net=0 bufAhead=30.9s frames(total/dropped/corrupt)=5142/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212613.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212613.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212613.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212613.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=140.4s sinceRot=- ct=25319741.19 paused=false rate=1 ready=3 net=0 bufAhead=25.9s frames(total/dropped/corrupt)=5307/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=141.6s sinceRot=- ct=25319741.29 paused=false rate=1 ready=3 net=0 bufAhead=25.8s frames(total/dropped/corrupt)=5467/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=142.7s sinceRot=- ct=25319741.29 paused=false rate=1 ready=3 net=0 bufAhead=31.8s frames(total/dropped/corrupt)=5467/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=144.1s sinceRot=- ct=25319741.29 paused=false rate=1 ready=3 net=0 bufAhead=31.8s frames(total/dropped/corrupt)=5496/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212614.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212614.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=145.6s sinceRot=- ct=25319746.40 paused=false rate=1 ready=3 net=0 bufAhead=26.6s frames(total/dropped/corrupt)=5686/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212614.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212614.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=146.6s sinceRot=- ct=25319746.50 paused=false rate=1 ready=1 net=0 bufAhead=26.6s frames(total/dropped/corrupt)=5686/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=147.8s sinceRot=- ct=25319746.50 paused=false rate=1 ready=3 net=0 bufAhead=32.6s frames(total/dropped/corrupt)=5880/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=149.1s sinceRot=- ct=25319746.50 paused=false rate=1 ready=3 net=0 bufAhead=32.6s frames(total/dropped/corrupt)=5880/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212615.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212615.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212615.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=150.4s sinceRot=- ct=25319751.56 paused=false rate=1 ready=3 net=0 bufAhead=27.5s frames(total/dropped/corrupt)=6122/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212615.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=151.5s sinceRot=- ct=25319751.66 paused=false rate=1 ready=1 net=0 bufAhead=27.5s frames(total/dropped/corrupt)=6122/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=152.6s sinceRot=- ct=25319751.66 paused=false rate=1 ready=3 net=0 bufAhead=27.5s frames(total/dropped/corrupt)=6288/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=153.9s sinceRot=- ct=25319751.66 paused=false rate=1 ready=3 net=0 bufAhead=33.4s frames(total/dropped/corrupt)=6288/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=154.9s sinceRot=- ct=25319751.66 paused=false rate=1 ready=3 net=0 bufAhead=33.4s frames(total/dropped/corrupt)=6336/0/NaN stall=3 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212616.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212616.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=156.3s sinceRot=- ct=25319756.88 paused=false rate=1 ready=3 net=0 bufAhead=28.2s frames(total/dropped/corrupt)=6541/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_4212616.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212616.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=157.6s sinceRot=- ct=25319756.98 paused=false rate=1 ready=3 net=0 bufAhead=28.2s frames(total/dropped/corrupt)=6746/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=158.6s sinceRot=- ct=25319756.98 paused=false rate=1 ready=3 net=0 bufAhead=34.1s frames(total/dropped/corrupt)=6746/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=159.6s sinceRot=- ct=25319756.98 paused=false rate=1 ready=3 net=0 bufAhead=34.1s frames(total/dropped/corrupt)=6818/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_5_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212617.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212617.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=161.4s sinceRot=- ct=25319762.19 paused=false rate=1 ready=3 net=0 bufAhead=28.9s frames(total/dropped/corrupt)=7002/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212617.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_4212617.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=162.7s sinceRot=- ct=25319762.19 paused=false rate=1 ready=3 net=0 bufAhead=28.9s frames(total/dropped/corrupt)=7002/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=163.9s sinceRot=- ct=25319762.29 paused=false rate=1 ready=3 net=0 bufAhead=28.9s frames(total/dropped/corrupt)=7189/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=164.9s sinceRot=- ct=25319762.29 paused=false rate=1 ready=3 net=0 bufAhead=34.8s frames(total/dropped/corrupt)=7189/0/NaN stall=1
+ (NOBRIDGE) WARN  [ShakaPlayer] license rotation detected at t=169.2s status=200 bytes=955 uri=https://license-clientdev.starz.com/v2/widevine/getlicense/ghostlocker?token=VZ19%2FH7soFPBf%2BG7dq%2BRfwluhekauC4Qwme1YZo%2B%2FWMYQNHIkvoAXWol%2B1z%2Bhi8XTabljZVrFQvsbyYL0KZ%2BMwXb6WRVNVqq2NsVpOLdphfvmKAYU%2B6VLGiz%2Bos1qpVsC9iOtTZdM%2BFnMSIc3wjTpXH%2Fd0sThAUzXer%2F%2FdeRtrOeJnTYVRMCZNpAlHx2qPefKgmqoS%2FFYY%2Bp6fcDGEmBKOV94kaFM3eBAP%2FO1wp4r51XPNF9Y9Wj1jYb3Gk7D5s2JR0XbkT%2Bg7mugK2BQmjrknoMEIMy3hoI%2Ffi5t3V1f0oKI%2Fs89wyhL1eEE6My19IbTcwTv%2F68JepEP4B4HnLEnpnqo3wbfrCo5iLZOcDN4BZoZlMk5ZWcQyVzYPt3n5km0315MCUMLlA9AG6t4GFfOWVEYwp1UVx6t2Jzc4jXp4J%2BmYhiXwf%2BUcl75UTift9oh2KxkQvV2kR0zULQ5H970mtXrqs5hR%2BDe6f8cUys554VUBg8pJL1m32NKKj%2Fbv3knNg8nnBxEvO1rdYrAHogA89SS2BeJIG4JwG9dY603m7CHAqDe5r3ixzSFUfJyrRAduwSo0Z79vmAQSIEAPIwF9ZmWTkylWyi2V6%2FfFYPu%2BwFaQ1vROicJwOMdGnHL5Oj8Gaq9Pi%2BMlthGwFhYodcS2vrWj0yuO3guWYw4jjgk%2B08JtiasA54Yyqoy1pmCAJP%3Bcoid%3D12db92197de34147a985368da8a654a6
+ (NOBRIDGE) WARN  [FreezeDiag] *** LICENSE ROTATION observed — watching for HW-decoder freeze ***
+ (NOBRIDGE) WARN  [LiveDecoderWatchdog] rotation detected — pre-emptive reload DISABLED (freeze diagnostics)
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_4212618.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=166.6s sinceRot=1.2s ct=25319767.44 paused=false rate=1 ready=3 net=0 bufAhead=29.6s frames(total/dropped/corrupt)=7409/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212618.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212618.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212618.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=167.6s sinceRot=2.2s ct=25319767.44 paused=false rate=1 ready=3 net=0 bufAhead=29.6s frames(total/dropped/corrupt)=7409/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=168.7s sinceRot=3.4s ct=25319767.54 paused=false rate=1 ready=3 net=0 bufAhead=29.5s frames(total/dropped/corrupt)=7579/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=169.7s sinceRot=4.4s ct=25319767.54 paused=false rate=1 ready=3 net=0 bufAhead=35.5s frames(total/dropped/corrupt)=7579/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=171.1s sinceRot=5.8s ct=25319767.54 paused=false rate=1 ready=3 net=0 bufAhead=35.5s frames(total/dropped/corrupt)=7614/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=172.2s sinceRot=6.9s ct=25319772.83 paused=false rate=1 ready=3 net=0 bufAhead=30.2s frames(total/dropped/corrupt)=7815/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=173.6s sinceRot=8.2s ct=25319772.93 paused=false rate=1 ready=3 net=0 bufAhead=30.1s frames(total/dropped/corrupt)=8021/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=174.6s sinceRot=9.2s ct=25319772.93 paused=false rate=1 ready=3 net=0 bufAhead=30.1s frames(total/dropped/corrupt)=8021/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=175.9s sinceRot=10.5s ct=25319772.93 paused=false rate=1 ready=3 net=0 bufAhead=30.1s frames(total/dropped/corrupt)=8089/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212619.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212619.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_4212619.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=177.2s sinceRot=11.8s ct=25319778.30 paused=false rate=1 ready=3 net=0 bufAhead=24.8s frames(total/dropped/corrupt)=8275/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212619.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=178.2s sinceRot=12.8s ct=25319778.30 paused=false rate=1 ready=3 net=0 bufAhead=24.8s frames(total/dropped/corrupt)=8275/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=179.3s sinceRot=14.0s ct=25319778.40 paused=false rate=1 ready=3 net=0 bufAhead=30.7s frames(total/dropped/corrupt)=8465/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=180.4s sinceRot=15.0s ct=25319778.40 paused=false rate=1 ready=3 net=0 bufAhead=30.7s frames(total/dropped/corrupt)=8465/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=181.4s sinceRot=16.0s ct=25319778.40 paused=false rate=1 ready=3 net=0 bufAhead=30.7s frames(total/dropped/corrupt)=8521/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212620.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212620.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_4212620.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=182.8s sinceRot=17.4s ct=25319783.41 paused=false rate=1 ready=3 net=0 bufAhead=25.7s frames(total/dropped/corrupt)=8685/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212620.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=184.1s sinceRot=18.8s ct=25319783.51 paused=false rate=1 ready=3 net=0 bufAhead=25.6s frames(total/dropped/corrupt)=8846/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=185.4s sinceRot=20.0s ct=25319783.51 paused=false rate=1 ready=3 net=0 bufAhead=31.6s frames(total/dropped/corrupt)=8846/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=186.4s sinceRot=21.0s ct=25319783.51 paused=false rate=1 ready=3 net=0 bufAhead=31.6s frames(total/dropped/corrupt)=8879/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212621.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212621.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_4212621.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=187.8s sinceRot=22.4s ct=25319788.89 paused=false rate=1 ready=3 net=0 bufAhead=26.2s frames(total/dropped/corrupt)=9081/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212621.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=188.8s sinceRot=23.4s ct=25319788.89 paused=false rate=1 ready=3 net=0 bufAhead=26.3s frames(total/dropped/corrupt)=9081/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=189.9s sinceRot=24.5s ct=25319788.99 paused=false rate=1 ready=3 net=0 bufAhead=26.2s frames(total/dropped/corrupt)=9287/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=190.9s sinceRot=25.5s ct=25319788.99 paused=false rate=1 ready=3 net=0 bufAhead=26.2s frames(total/dropped/corrupt)=9287/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=191.9s sinceRot=26.5s ct=25319788.99 paused=false rate=1 ready=3 net=0 bufAhead=32.1s frames(total/dropped/corrupt)=9366/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=193.1s sinceRot=27.7s ct=25319794.28 paused=false rate=1 ready=3 net=0 bufAhead=26.8s frames(total/dropped/corrupt)=9552/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_3_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_4_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_3_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212622.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212622.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=194.2s sinceRot=28.9s ct=25319794.38 paused=false rate=1 ready=1 net=0 bufAhead=26.7s frames(total/dropped/corrupt)=9552/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_3_0_4212622.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212622.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=195.2s sinceRot=29.9s ct=25319794.38 paused=false rate=1 ready=3 net=0 bufAhead=26.7s frames(total/dropped/corrupt)=9738/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=196.6s sinceRot=31.3s ct=25319794.38 paused=false rate=1 ready=3 net=0 bufAhead=32.7s frames(total/dropped/corrupt)=9738/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) WARN  [FreezeDiag] t=197.6s sinceRot=32.3s ct=25319794.38 paused=false rate=1 ready=3 net=0 bufAhead=32.7s frames(total/dropped/corrupt)=9758/0/NaN stall=3 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212623.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212623.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_3_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_3_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_3_0_4212623.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=198.8s sinceRot=33.4s ct=25319799.44 paused=false rate=1 ready=3 net=0 bufAhead=27.7s frames(total/dropped/corrupt)=9935/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212623.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=199.9s sinceRot=34.6s ct=25319799.54 paused=false rate=1 ready=3 net=0 bufAhead=33.6s frames(total/dropped/corrupt)=10100/0/NaN stall=0
+ (NOBRIDGE) WARN  [FreezeDiag] t=201.3s sinceRot=35.9s ct=25319799.54 paused=false rate=1 ready=3 net=0 bufAhead=33.6s frames(total/dropped/corrupt)=10100/0/NaN stall=1
+ (NOBRIDGE) WARN  [FreezeDiag] t=202.4s sinceRot=37.0s ct=25319799.54 paused=false rate=1 ready=3 net=0 bufAhead=33.6s frames(total/dropped/corrupt)=10116/0/NaN stall=2 <<< FROZEN
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_2_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_3_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_2_0_init.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212624.mp4?m=1763417987
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_audio_7_0_4212624.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=203.6s sinceRot=38.3s ct=25319804.79 paused=false rate=1 ready=3 net=0 bufAhead=28.3s frames(total/dropped/corrupt)=10314/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_subtitles_6_0_4212624.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=204.7s sinceRot=39.4s ct=25319804.89 paused=false rate=1 ready=1 net=0 bufAhead=28.2s frames(total/dropped/corrupt)=10314/0/NaN stall=0
+ (NOBRIDGE) LOG  resovledUri =  https://live-linear-clientdev.starz.com/cc70ad70f98d4abd87b91e76cc296181/dash_video_2_0_4212624.mp4?m=1763417987
+ (NOBRIDGE) WARN  [FreezeDiag] t=206.1s sinceRot=40.8s ct=25319804.89 paused=false rate=1 ready=3 net=0 bufAhead=28.3s frames(total/dropped/corrupt)=10516/0/NaN stall=1
+Done in 420.43s.
